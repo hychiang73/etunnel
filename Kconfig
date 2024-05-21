@@ -1,0 +1,4 @@
+config YOSHINO_NEW_ETUNNEL
+    tristate "etunnel driver"
+    help
+	  ETUNNEL is the driver to transport mac-in-mac frame between ethernet and hwsim
